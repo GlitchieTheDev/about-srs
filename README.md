@@ -1,6 +1,6 @@
 # Secure Reverse Shell (SRS) Pack
 
-**NOTE** - Due to Replit's new update, where the only way to host a project is deployments, the server is broken, and this might require a change in URL when I will have to update both, the Server module, Client module and even the Host module. So if your host version is less than v2.8.15 then it is safe and running but wont be able to connect from Client. The only way to connect to the Host v2.8.15 is to manipulate Client's memory and change the URL to the old server (https://srs-host.adaptable.app) but it is not recommended and the old server is slow and has a lot of rate limitations. Unfortunately, I, at the moment, can't do anything about it.
+**NOTE** - Due to Replit's new update, where the only way to host a project is deployments, the server is broken, and this might require a change in URL when I will have to update both, the Server module, Client module and even the Host module. So if your host version is less than v2.8.15 then it is safe and running but wont be able to connect from Client. The only way to connect to the Host v2.8.15 is to manipulate Client's memory and change the URL to the old server (<https://srs-host.adaptable.app>) but it is not recommended and the old server is slow and has a lot of rate limitations. Unfortunately, I, at the moment, can't do anything about it.
 
 ---
 
