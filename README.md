@@ -20,7 +20,7 @@ By using Secure Reverse Shell (SRS) Pack, you agree to these terms and acknowled
 
 This work and its content are the exclusive property of KAS Productions, owned and founded by GlitchieTheDev. Any unauthorized use, reproduction, or distribution of this material, in whole or in part, is strictly prohibited. All rights are reserved by GlitchieTheDev, including but not limited to the rights of reproduction, distribution, and adaptation. Any infringement of these rights may result in legal action.
 
-For inquiries regarding the use of KAS Productions' content or licensing opportunities, please contact GlitchieTheDev at owner@glitchiethedev.com.
+For inquiries regarding the use of KAS Productions' content or licensing opportunities, please contact GlitchieTheDev at [owner@glitchiethedev.com](mailto:owner@glitchiethedev.com).
 
 Thank you for respecting the intellectual property rights of KAS Productions.
 
