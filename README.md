@@ -29,11 +29,11 @@ Thank you for respecting the intellectual property rights of KAS Productions.
 
 ## Modules of SRS
 
-**SRS Host** - https://github.com/GlitchieTheDev/srs-server/releases/download/Host-v2.9.4/srs.zip
+**SRS Host** - <https://github.com/GlitchieTheDev/srs-server/releases/download/Host-v2.9.4/srs.zip>
 \
 **SRS Client** - 
 \
-**SRS Server** - https://10b2f192-d286-41d4-982c-c2c84fa99bc5-00-2fqkwwvtm35vm.pike.replit.dev
+**SRS Server** - <https://10b2f192-d286-41d4-982c-c2c84fa99bc5-00-2fqkwwvtm35vm.pike.replit.dev>
 
 ---
 
